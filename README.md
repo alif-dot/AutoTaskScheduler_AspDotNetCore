@@ -11,8 +11,13 @@ If you choose to use IHostedService, you can create a background service that ru
 Both of these approaches have their own advantages and disadvantages, so it's important to choose the one that best fits your needs. I hope this helps!
 
 Source: Conversation with Bing, 11/13/2023
+
 (1) c# - .Net Core 6 Create Scheduling Task - Stack Overflow. https://stackoverflow.com/questions/72373372/net-core-6-create-scheduling-task.
+
 (2) Running automatic tasks in .NET Core WebAPI - Medium. https://medium.com/@niteshsinghal85/running-automatic-task-in-asp-net-core-webapi-d5605b3a1114.
+
 (3) A Dynamic Task Scheduler for ASP.NET Core - DZone. https://dzone.com/articles/a-dynamic-task-scheduler-for-aspnet-core.
+
 (4) Telerik UI for ASP.NET Core Scheduler Overview. https://demos.telerik.com/aspnet-core/scheduler.
+
 (5) ASP.NET Core MVC scheduled task - Stack Overflow. https://stackoverflow.com/questions/40050753/asp-net-core-mvc-scheduled-task.
